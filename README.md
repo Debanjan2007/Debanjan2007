@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debanjan2007" alt="debanjan2007" /></a> </p>
 
-- 🔭 I’m currently working on [STRANGER](https://github.com/Debanjan2007/STRANGER.git)
+- 🔭 I’m currently working on [MEDIMINDER](https://github.com/Phe0nix-Devs/MediMinder)
 
 - 🌱 I’m currently learning **Node.js , Express.js**
 

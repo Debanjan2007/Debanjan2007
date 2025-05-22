@@ -1,19 +1,18 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="200" alt="Coding Animation" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Hello" />
 </p>
 
-# 👋 Hey there, I'm Debanjan Das
+<h1 align="center">Hi there, I'm Debanjan Das 👋</h1>
 
 > "A man told me don't argue with fools. Cause people from a distance can't tell who is who."  
 > — *Kanye West*
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Welcome Animation" />
-</p>
+---
 
-📍 Barrackpore, India  
-🕒 Timezone: UTC +05:30  
-🔗 [YouTube](https://youtube.com/@debanjandas-rk9de)
+## 📍 Location & Timezone
+
+- 🏠 Barrackpore, India  
+- 🕒 Timezone: UTC +05:30
 
 ---
 

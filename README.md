@@ -52,7 +52,6 @@ Here are some of my favorite projects:
 
 - 📧 Email: microsoft2420@gmail.com
 - 📱 WhatsApp: [Contact Me](https://wa.me/918420239317)  
-- 📸 Instagram: [@das_abae](https://www.instagram.com/das_abae)
 
 ---
 

@@ -25,9 +25,9 @@ I'm a passionate backend developer on a journey to master the art of coding. Cur
 ## 🛠️ Technologies & Tools
 
 - **Languages**: JavaScript, Python, c  
-- **Frameworks**: Node.js, Express.js  
-- **Databases**: MongoDB, MySQL  
-- **Tools**: Git, Postman, VS Code
+- **Frameworks**: Node.js, Express.js 
+- **Databases**: MongoDB, MySQL, redis
+- **Tools**: Git, Postman, VS Code 
 
 ---
 
@@ -50,8 +50,8 @@ Here are some of my favorite projects:
 
 ## 📬 Get in Touch
 
-- 📧 Email: debanjan07@outlook.com  
-- 📱 WhatsApp: [Contact Me](https://wa.me/917980160249)  
+- 📧 Email: [microsoft2420@gmail.com](microsoft2420@gmail.com)
+- 📱 WhatsApp: [Contact Me](https://wa.me/918420239317)  
 - 📸 Instagram: [@das_abae](https://www.instagram.com/das_abae)
 
 ---

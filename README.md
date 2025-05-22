@@ -26,7 +26,7 @@ I'm a passionate backend developer on a journey to master the art of coding. Cur
 
 - **Languages**: JavaScript, Python, c  
 - **Frameworks**: Node.js, Express.js 
-- **Databases**: MongoDB, MySQL, redis
+- **Databases**: MongoDB, redis
 - **Tools**: Git, Postman, VS Code 
 
 ---

@@ -1,82 +1,66 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="200" alt="Coding Animation" />
+</p>
 
-###
+# 👋 Hey there, I'm Debanjan Das
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+> "A man told me don't argue with fools. Cause people from a distance can't tell who is who."  
+> — *Kanye West*
 
-###
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Welcome Animation" />
+</p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Debanjan2007.Debanjan2007&"  />
-</div>
+📍 Barrackpore, India  
+🕒 Timezone: UTC +05:30  
+🔗 [YouTube](https://youtube.com/@debanjandas-rk9de)
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## 💡 About Me
 
-###
+I'm a passionate backend developer on a journey to master the art of coding. Currently, I'm diving deep into backend technologies, building projects that solve real-world problems. When I'm not coding, you can find me catching up on sleep or exploring new tech trends.
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## 🛠️ Technologies & Tools
 
-<p align="left">I'm Debanjan Das from Barrackpore <br><br>- 🔭 I’m working as a learner seeking for knowledge<br>- 📚 I'm currently learning backend <br>- ⚡ In my free time I take some nap</p>
+- **Languages**: JavaScript, TypeScript, Python, Java  
+- **Frameworks**: Node.js, Express.js  
+- **Databases**: MongoDB, MySQL  
+- **Tools**: Git, Docker, Postman, VS Code
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+## 📈 GitHub Stats
 
-###
+![Debanjan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debanjan2007&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="40" alt="msdos logo"  />
-</div>
+---
 
-###
+## 📌 Pinned Repositories
 
-<h3 align="left">🔥   My Stats :</h3>
+Here are some of my favorite projects:
 
-###
+- [krypton-WhatsappBot](https://github.com/Debanjan2007/krypton-WhatsappBot): A feature-rich WhatsApp bot built with JavaScript.
+- [WhatsApp-Bot-Devi](https://github.com/Debanjan2007/WhatsApp-Bot-Devi): A bot that brings Devi's power to WhatsApp.
+- [translate-core](https://github.com/Debanjan2007/translate-core): A powerful language translation package supporting multiple languages.
+- [PlugAPI](https://github.com/Debanjan2007/PlugAPI): A modular API built with TypeScript and Express.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Debanjan2007&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Debanjan2007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-###
+## 📬 Get in Touch
+
+- 📧 Email: debanjan07@outlook.com  
+- 📱 WhatsApp: [Contact Me](https://wa.me/919831234567)  
+- 📸 Instagram: [@das_abae](https://www.instagram.com/das_abae)
+
+---
+
+## 🎮 Fun Fact
+
+I believe in the power of persistence. Just like in coding, life is about debugging and moving forward. Let's keep learning and growing together!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="200" alt="Keep Going Animation" />
+</p>

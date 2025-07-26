@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Debanjan Das 👋</h1>
 <p align="center">
-  Full-Stack Developer | Tech Explorer | Builder of Digital Products
+  Node.js Developer | Tech Explorer | Builder of Digital Products
 </p>
 
 <p align="center">

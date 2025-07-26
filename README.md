@@ -45,7 +45,7 @@ Currently, I lead a creative team called **Bloomware**, where we build modern, m
 
 ### 🛠️ Projects I'm Proud Of
 
-#### 📝 [Personal Blog Web App](https://github.com/Debanjan2007/roadmap_projects/personal-blog-web-app)
+#### 📝 [Personal Blog Web App](https://github.com/Debanjan2007/roadmap_projects)
 > A blogging platform built using Node.js and Docker — simple, clean, and developer-friendly.
 
 <p align="center">

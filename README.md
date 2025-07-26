@@ -74,7 +74,7 @@ We work across:
 > Great teams don’t just build projects — they build momentum.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="500"/>
 </p>
 
 ---

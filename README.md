@@ -15,13 +15,13 @@
 
 ### 💡 About Me
 
-I'm a passionate developer who loves turning ideas into working products. From designing beautiful UIs to architecting backend services, I enjoy crafting every part of the stack.  
-Currently, I'm leading a developer team called **Bloomware**, where we collaborate on meaningful, creative apps that aim to solve real problems.
+I'm a passionate JavaScript developer who loves turning ideas into working products. From designing clean user interfaces to writing efficient backend logic, I enjoy every step of the process.  
+Currently, I lead a creative team called **Bloomware**, where we build modern, meaningful apps together.
 
-- 🧠 Always learning new tools, libraries, and tech  
-- 💻 Experienced in Node.js, JavaScript, MongoDB, Docker, and more  
-- 🚀 Building and shipping projects with clean architecture and scalable design  
-- 🌱 Exploring DevOps, deep linking, and mobile integration  
+- 🧠 Always exploring new JS libraries and architectures  
+- 💻 Skilled in Node.js, JavaScript, MongoDB, Docker, and Git workflows  
+- 🚀 Focused on building scalable APIs and production-ready apps  
+- 🌱 Learning more about DevOps, deep linking, and app security  
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
@@ -33,8 +33,9 @@ Currently, I'm leading a developer team called **Bloomware**, where we collabora
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -62,12 +63,15 @@ Currently, I'm leading a developer team called **Bloomware**, where we collabora
 
 ### 👥 Team: Bloomware
 
-I'm currently leading **Bloomware**, a passionate team of developers focused on designing and building well-thought-out apps.  
-We value clean code, creativity, teamwork, and pushing boundaries with every project.
+I’m currently leading **Bloomware**, a motivated team of developers passionate about building reliable, creative apps.  
+We love experimenting, debugging, designing, and collaborating across tools and technologies.
 
-We work across various tech stacks — from REST APIs and containerized services to building smooth frontends and exploring deep integrations.
+We work across:
+- REST APIs
+- Containerized microservices (Docker)
+- Lightweight JS-based frontends
 
-> Great teams don’t just build products. They build momentum.
+> Great teams don’t just build projects — they build momentum.
 
 <p align="center">
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
@@ -86,11 +90,11 @@ We work across various tech stacks — from REST APIs and containerized services
 
 ### 📬 Let’s Connect
 
-I’m always open to collaboration, discussions, or just geeking out on cool projects.
+I’m always open to collaboration, discussions, or just geeking out on cool builds.
 
 - 📧 Email: [Reach out on GitHub](https://github.com/Debanjan2007)  
-- 🌐 Portfolio coming soon...  
-- 🧱 Stay tuned for open-source contributions and team releases!
+- 🌐 Portfolio: Coming soon...  
+- 🔔 Follow for updates on open-source projects & more
 
 ---
 

@@ -7,6 +7,10 @@
   <img src="https://komarev.com/ghpvc/?username=Debanjan2007&label=Profile%20Views&color=0e75b6&style=flat" alt="Debanjan2007" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
+
 ---
 
 ### 💡 About Me
@@ -14,10 +18,14 @@
 I'm a passionate developer who loves turning ideas into working products. From designing beautiful UIs to architecting backend services, I enjoy crafting every part of the stack.  
 Currently, I'm leading a developer team called **Bloomware**, where we collaborate on meaningful, creative apps that aim to solve real problems.
 
-- 🧠 Always learning new tools, libraries, and tech
-- 💻 Experienced in Node.js, JavaScript, MongoDB, Docker, and more
-- 🚀 Building and shipping projects with clean architecture and scalable design
-- 🌱 Exploring DevOps, deep linking, and mobile integration
+- 🧠 Always learning new tools, libraries, and tech  
+- 💻 Experienced in Node.js, JavaScript, MongoDB, Docker, and more  
+- 🚀 Building and shipping projects with clean architecture and scalable design  
+- 🌱 Exploring DevOps, deep linking, and mobile integration  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+</p>
 
 ---
 
@@ -36,14 +44,14 @@ Currently, I'm leading a developer team called **Bloomware**, where we collabora
 
 ### 🛠️ Projects I'm Proud Of
 
-#### 📝 Personal Blog Web App
+#### 📝 Personal Blog Web App  
 > A blogging platform built using Node.js and Docker — simple, clean, and developer-friendly.
 
 <p align="center">
   <img src="https://github.com/Debanjan2007/Debanjan2007/assets/122956128/0d53b20e-478c-4f42-bfc0-b2e2c2730b6c" width="700" alt="Personal Blog Web App" />
 </p>
 
-#### 💊 MediMinder - Your Medicine Reminder App
+#### 💊 MediMinder - Your Medicine Reminder App  
 > A collaborative team project where we built a complete reminder and health-tracking system using microservices and scalable backend architecture.
 
 <p align="center">
@@ -61,6 +69,10 @@ We work across various tech stacks — from REST APIs and containerized services
 
 > Great teams don’t just build products. They build momentum.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
+</p>
+
 ---
 
 ### 📊 GitHub Stats
@@ -76,8 +88,8 @@ We work across various tech stacks — from REST APIs and containerized services
 
 I’m always open to collaboration, discussions, or just geeking out on cool projects.
 
-- 📧 Email: [Reach out on GitHub](https://github.com/Debanjan2007)
-- 🌐 Portfolio coming soon...
+- 📧 Email: [Reach out on GitHub](https://github.com/Debanjan2007)  
+- 🌐 Portfolio coming soon...  
 - 🧱 Stay tuned for open-source contributions and team releases!
 
 ---

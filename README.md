@@ -45,14 +45,14 @@ Currently, I lead a creative team called **Bloomware**, where we build modern, m
 
 ### 🛠️ Projects I'm Proud Of
 
-#### 📝 Personal Blog Web App  
+#### 📝 [Personal Blog Web App](https://github.com/Debanjan2007/roadmap_projects)
 > A blogging platform built using Node.js and Docker — simple, clean, and developer-friendly.
 
 <p align="center">
   <img src="https://github.com/Debanjan2007/Debanjan2007/assets/122956128/0d53b20e-478c-4f42-bfc0-b2e2c2730b6c" width="700" alt="Personal Blog Web App" />
 </p>
 
-#### 💊 MediMinder - Your Medicine Reminder App  
+#### 💊 [MediMinder - Your Medicine Reminder App](https://github.com/BloomWare25/MediMinder)
 > A collaborative team project where we built a complete reminder and health-tracking system using microservices and scalable backend architecture.
 
 <p align="center">

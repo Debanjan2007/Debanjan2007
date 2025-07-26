@@ -69,7 +69,7 @@ We love experimenting, debugging, designing, and collaborating across tools and 
 We work across:
 - REST APIs
 - Containerized microservices (Docker)
-- Lightweight JS-based frontends
+- Android focused
 
 > Great teams don’t just build projects — they build momentum.
 

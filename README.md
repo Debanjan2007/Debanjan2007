@@ -92,7 +92,7 @@ We work across:
 
 I’m always open to collaboration, discussions, or just geeking out on cool builds.
 
-- 📧 Email: [Reach out on GitHub](https://github.com/Debanjan2007)  
+- 📧 Email: [debanjanGmail@gmail.com](microsoft2420@gmail.com)  
 - 🌐 Portfolio: Coming soon...  
 - 🔔 Follow for updates on open-source projects & more
 

@@ -24,7 +24,7 @@ Currently, I lead a creative team called **Bloomware**, where we build modern, m
 - 🌱 Learning more about DevOps, deep linking, and app security  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
 </p>
 
 ---

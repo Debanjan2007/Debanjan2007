@@ -15,13 +15,13 @@
 
 ### 💡 About Me
 
-I'm a passionate JavaScript developer who loves turning ideas into working products. From designing clean user interfaces to writing efficient backend logic, I enjoy every step of the process.  
-Currently, I lead a creative team called **Bloomware**, where we build modern, meaningful apps together.
+I'm a passionate JavaScript developer who loves turning ideas into real, working products.  
+From designing clean user interfaces to building efficient backend systems, I enjoy every step of the process.
 
-- 🧠 Always exploring new JS libraries and architectures  
+- 🧠 Always exploring new JS libraries and backend architectures  
 - 💻 Skilled in Node.js, JavaScript, MongoDB, Docker, and Git workflows  
-- 🚀 Focused on building scalable APIs and production-ready apps  
-- 🌱 Learning more about DevOps, deep linking, and app security  
+- 🚀 Focused on building scalable APIs and production-ready applications  
+- 🌱 Currently learning more about DevOps, deep linking, and app security  
 
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
@@ -56,28 +56,10 @@ Currently, I lead a creative team called **Bloomware**, where we build modern, m
 </p>
 
 #### 💊 [MediMinder - Your Medicine Reminder App](https://github.com/BloomWare25/MediMinder/)
-> A collaborative team project where we built a complete reminder and health-tracking system using microservices and scalable backend architecture.
+> A medicine reminder and health-tracking system designed with scalable backend architecture and microservices for reliability and performance.
 
 <p align="center">
   <img src="https://github.com/Debanjan2007/Debanjan2007/assets/122956128/5c728c26-fb68-4df0-8662-2603b5608f3a" width="700" alt="MediMinder App" />
-</p>
-
----
-
-### 👥 Team: Bloomware
-
-I’m currently leading **Bloomware**, a motivated team of developers passionate about building reliable, creative apps.  
-We love experimenting, debugging, designing, and collaborating across tools and technologies.
-
-We work across:
-- REST APIs
-- Containerized microservices (Docker)
-- Android focused
-
-> Great teams don’t just build projects — they build momentum.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="500"/>
 </p>
 
 ---
@@ -89,16 +71,15 @@ We work across:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debanjan2007&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5" width="330"/>
 </p>
 
-
 ---
 
 ### 📬 Let’s Connect
 
 I’m always open to collaboration, discussions, or just geeking out on cool builds.
 
-- 📧 Email: microsoft2420@gmail.com
+- 📧 Email: microsoft2420@gmail.com  
 - 🌐 Portfolio: Coming soon...  
-- 🔔 Follow for updates on open-source projects & more
+- 🔔 Follow for updates on open-source projects & experiments  
 
 ---
 

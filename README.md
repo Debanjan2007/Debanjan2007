@@ -32,6 +32,7 @@ From designing clean user interfaces to building efficient backend systems, I en
 ### 🔧 Tools & Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![pnpm](https://img.shields.io/badge/-pnpm-black?style=flat-square&logo=pnpm)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)

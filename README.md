@@ -49,6 +49,7 @@ From designing clean user interfaces to building efficient backend systems, I en
 ![linux](https://img.shields.io/badge/-linux-black?style=flat-square&logo=linux)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash)
 
 ---
 
@@ -59,13 +60,6 @@ From designing clean user interfaces to building efficient backend systems, I en
 
 <p align="center">
   <img src="https://github.com/Debanjan2007/Debanjan2007/assets/122956128/0d53b20e-478c-4f42-bfc0-b2e2c2730b6c" width="700" alt="Personal Blog Web App" />
-</p>
-
-#### 💊 [MediMinder - Your Medicine Reminder App](https://github.com/BloomWare25/MediMinder/)
-> A medicine reminder and health-tracking system designed with scalable backend architecture and microservices for reliability and performance.
-
-<p align="center">
-  <img src="https://github.com/Debanjan2007/Debanjan2007/assets/122956128/5c728c26-fb68-4df0-8662-2603b5608f3a" width="700" alt="MediMinder App" />
 </p>
 
 ---

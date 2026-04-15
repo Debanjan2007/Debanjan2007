@@ -55,11 +55,11 @@ From designing clean user interfaces to building efficient backend systems, I en
 
 ### 🛠️ Projects I'm Proud Of
 
-#### 📝 [Personal Blog Web App](https://github.com/Debanjan2007/roadmap_projects)
-> A blogging platform built using Node.js and Docker — simple, clean, and developer-friendly.
+#### 📝 [pixForge](https://github.com/Debanjan2007/PixForge)
+> A modern and loacl image upload system
 
 <p align="center">
-  <img src="https://github.com/Debanjan2007/Debanjan2007/assets/122956128/0d53b20e-478c-4f42-bfc0-b2e2c2730b6c" width="700" alt="Personal Blog Web App" />
+  <img src="https://github.com/Debanjan2007/Debanjan2007/assets/122956128/0d53b20e-478c-4f42-bfc0-b2e2c2730b6c" width="700" alt="Pixforge" />
 </p>
 
 ---

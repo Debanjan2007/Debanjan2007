@@ -40,7 +40,7 @@ I enjoy designing APIs, optimizing backend workflows, automating deployments, an
 # 🚧 Currently Building
 
 - 🔐 **Uniauth** — Unified OAuth toolkit for Node.js applications  
-- 🏥 **MediMinder** — Medication & medical management platform  
+- 🏥 **OmniPost** — One place to create, manage, and publish content across every platform.  
 - ⚙️ Infrastructure automation & backend tooling experiments  
 
 ---

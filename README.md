@@ -12,7 +12,6 @@
   <a href="https://github.com/Debanjan2007/uniauth/actions/workflows/ci.yaml">
     <img src="https://github.com/Debanjan2007/uniauth/actions/workflows/ci.yaml/badge.svg" />
   </a>
-  <img src="https://img.shields.io/github/license/Debanjan2007/uniauth" />
   <img src="https://img.shields.io/github/stars/Debanjan2007/uniauth?style=social" />
   <img src="https://komarev.com/ghpvc/?username=Debanjan2007&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>

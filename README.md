@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Backend Developer • OAuth Systems • DevOps Learner • Open Source Builder
+  Backend Engineer • Full-Stack Product Builder • Open Source Maintainer
 </p>
 
 <p align="center">
@@ -24,9 +24,11 @@
 
 # 💡 About Me
 
-I’m a backend-focused JavaScript developer passionate about building scalable systems, authentication tools, and production-ready applications.
+I'm a backend-focused JavaScript developer who enjoys building scalable systems, authentication infrastructure, and production-ready applications.
 
-I enjoy designing APIs, optimizing backend workflows, automating deployments, and experimenting with infrastructure tooling.
+While backend engineering is my primary focus, I'm also comfortable building modern web interfaces with React, Next.js, Tailwind CSS, and shadcn/ui to deliver complete products.
+
+I enjoy designing APIs, optimizing backend workflows, automating deployments, and shipping polished developer experiences.
 
 - 🔐 Building authentication systems & OAuth tooling  
 - 🚀 Creating scalable backend architectures  
@@ -36,10 +38,26 @@ I enjoy designing APIs, optimizing backend workflows, automating deployments, an
 
 ---
 
+# 🏆 Core Stack
+
+### Backend
+
+Node.js • Express • TypeScript • MongoDB • PostgreSQL • Prisma • REST APIs • OAuth • JWT
+
+### Frontend
+
+React • Next.js • Tailwind CSS • shadcn/ui
+
+### DevOps
+
+Docker • GitHub Actions • Linux • Nginx • Git
+
+---
+
 # 🚧 Currently Building
 
 - 🔐 **Uniauth** — Unified OAuth toolkit for Node.js applications  
-- 🏥 **OmniPost** — One place to create, manage, and publish content across every platform.  
+- 📝 **OmniPost** — AI-assisted social media management platform built with Next.js, Prisma, PostgreSQL, Clerk Authentication, and modern backend architecture. 
 - ⚙️ Infrastructure automation & backend tooling experiments  
 
 ---
@@ -67,6 +85,15 @@ I enjoy designing APIs, optimizing backend workflows, automating deployments, an
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
+
+---
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-black?style=flat-square)
 
 ---
 
@@ -177,12 +204,12 @@ I enjoy designing APIs, optimizing backend workflows, automating deployments, an
 
 # ⚙️ Current Focus
 
-- 🔐 OAuth & Authentication Infrastructure  
-- 🚀 Backend Scalability  
-- ⚡ CI/CD Automation Pipelines  
-- 🐳 Docker & Containerized Systems  
-- 🧠 DevOps & Linux Administration  
-- 📦 Open Source Package Development  
+- 🔐 Authentication & Authorization
+- ⚡ Backend System Design
+- 🚀 Full-Stack Product Development
+- 🐳 Docker & CI/CD
+- 🗄️ PostgreSQL & Prisma
+- 📦 Open Source Development
 
 ---
 
